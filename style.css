@@ -10,7 +10,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: rgb(35, 49, 42); 
+    background: #000000; 
 }
 h1{
     color: white;
@@ -18,7 +18,7 @@ h1{
     font-family: 'Montserrat';
 }
 h4{
-    color: white;
+    color: #FFFFFF;
     margin: 15px;
     font-family: 'Montserrat';
 }
@@ -27,7 +27,7 @@ input{
     height: 40px;
     background: none;
     border: none;
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid #FFFFFF;
     margin: 15px;
     outline: none;
     font-size: 1.2rem;
@@ -41,7 +41,7 @@ button{
     margin: 15px;
     cursor: pointer;
     outline: none;
-    background: floralwhite;
+    background: #FFFFFF;
     color: white;
     border: none;
     color: rgb(35, 49, 42);
