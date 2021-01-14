@@ -33,7 +33,6 @@ input{
     font-size: 1.2rem;
     color: white;
     padding: 0 10px;
-    placeholder="Enter URL here" name="enterurl"
 }
 button{
     width: 150px;
