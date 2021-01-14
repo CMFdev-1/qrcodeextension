@@ -50,3 +50,7 @@ button{
 .hide{
     display: none;
 }
+.links {
+    color: #FFFFFF;
+    font-family: "Montserrat", bold;
+}
